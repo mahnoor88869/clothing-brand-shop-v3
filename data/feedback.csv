@@ -1,0 +1,31 @@
+comment_id,text,sentiment_label
+P02_F28,The parcel was dispatched on Tuesday.,neutral
+P02_F16,I am unhappy because the trousers were damaged.,negative
+P02_F24,The trousers are on the second shelf.,neutral
+P02_F18,I hate the uncomfortable fabric.,negative
+P02_F09,The packaging was neat and the shirt quality was great.,positive
+P02_F10,I enjoyed the shopping experience and the fair price.,positive
+P02_F29,The shirt has two pockets.,neutral
+P02_F25,The receipt lists three products.,neutral
+P02_F13,The rude staff made the visit unpleasant.,negative
+P02_F01,The bag quality is excellent.,positive
+P02_F05,The fast delivery was excellent.,positive
+P02_F17,The refund delay was annoying and disappointing.,negative
+P02_F06,The refund service was quick and helpful.,positive
+P02_F14,The torn bag was a frustrating purchase.,negative
+P02_F12,I am disappointed with the poor stitching.,negative
+P02_F23,The bag is available in blue.,neutral
+P02_F02,The staff were helpful and friendly.,positive
+P02_F03,I love the comfortable shirt and the lovely colour.,positive
+P02_F26,The shop opens at ten oclock.,neutral
+P02_F04,The trousers fit perfectly and I am very happy.,positive
+P02_F22,The parcel contains two items.,neutral
+P02_F27,The label shows the washing instructions.,neutral
+P02_F19,"Wonderful, the parcel is late again and nobody will help.",negative
+P02_F30,The order number is printed on the receipt.,neutral
+P02_F21,The shirt is size medium.,neutral
+P02_F08,The shop assistant was polite and patient.,positive
+P02_F11,The delivery was terrible and very late.,negative
+P02_F15,The shirt quality was awful.,negative
+P02_F20,The colour is nice but the damaged shirt is unacceptable.,negative
+P02_F07,This well made bag is wonderful.,positive

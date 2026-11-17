@@ -1,0 +1,51 @@
+{
+  "numeric_features": [
+    "last_week_units",
+    "price_pkr",
+    "discount_pct",
+    "footfall"
+  ],
+  "categorical_features": [
+    "category"
+  ],
+  "target": "next_week_units",
+  "target_unit": "units sold in the following week (generated classroom data)",
+  "cluster_features": [
+    "last_week_units",
+    "price_pkr",
+    "discount_pct",
+    "footfall"
+  ],
+  "image_classes": [
+    "top",
+    "trouser",
+    "bag"
+  ],
+  "image_shape": [
+    28,
+    28,
+    1
+  ],
+  "image_preprocessing": "grayscale, resize to 28x28, keep 0-255 (model has Rescaling(1/255)), add batch dimension",
+  "training_versions": {
+    "pandas": "2.2.3",
+    "numpy": "2.4.6",
+    "scikit-learn": "1.6.1",
+    "joblib": "1.6.0",
+    "tensorflow-cpu": "2.21.0",
+    "nltk": "3.9.1"
+  },
+  "python_version": "3.13",
+  "supervised_test_metrics": {
+    "decision_tree_mae": 5.446028230691856,
+    "decision_tree_rmse": 6.642520447694485,
+    "decision_tree_r2": 0.5979551886340723,
+    "baseline_mae": 8.743466666666666,
+    "baseline_rmse": 10.476939756754673,
+    "baseline_r2": -0.0001785931235573912
+  },
+  "image_test_metrics": {
+    "test_accuracy": 0.9733333333333334,
+    "test_macro_f1": 0.9733946431670645
+  }
+}

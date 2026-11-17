@@ -1,0 +1,5 @@
+{
+  "0": "Higher last-week sales and higher discount (averages: last-week sales 48.5, price 3035.7, discount 18.8, footfall 113.6; 239 training records). Product-planning scenario, not a customer segment.",
+  "1": "Higher discount and lower last-week sales (averages: last-week sales 17.0, price 2793.9, discount 22.4, footfall 98.9; 211 training records). Product-planning scenario, not a customer segment.",
+  "2": "Lower discount and lower last-week sales (averages: last-week sales 23.8, price 2949.7, discount 5.9, footfall 107.8; 250 training records). Product-planning scenario, not a customer segment."
+}
