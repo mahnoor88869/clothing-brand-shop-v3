@@ -1,0 +1,41 @@
+# .streamlit/config.toml  —  Pink boutique theme
+# Place at:  your-repo/.streamlit/config.toml
+#
+# Palette
+#   Blush      #fce5e5
+#   Rose       #f7c2c2
+#   Coral      #ff7474
+#   Crimson    #c64242
+#   Wine       #541616
+
+[theme]
+base = "light"
+primaryColor = "#c64242"              # buttons, sliders, checkboxes, links
+backgroundColor = "#fffafa"           # page background (very soft blush)
+secondaryBackgroundColor = "#fce5e5"  # inputs, expanders, code blocks
+textColor = "#541616"                 # all text in deep wine
+linkColor = "#c64242"
+
+font = "sans-serif"
+headingFont = "serif"
+baseFontSize = 16
+baseRadius = "0.9rem"
+borderColor = "#f7c2c2"
+showWidgetBorder = true
+
+[theme.sidebar]
+backgroundColor = "#541616"
+secondaryBackgroundColor = "#6b2424"
+textColor = "#fce5e5"
+primaryColor = "#ff7474"
+borderColor = "#7a2e2e"
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = false
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
